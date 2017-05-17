@@ -13,11 +13,11 @@ aa() {
  sudo apt-get install
 }
 function logo1_SinChi() {
-green "     >>>>               Welcome to GapChi bot                         <<<<      "
+green "     >>>>               Welcome to GP bot                         <<<<      "
 white "     >>>>             I wanna install it for you                      <<<<      "
 }
 function logo2_SinChi() {
-green "     >>>>            GapChi successfully installed                    <<<<      "
+green "     >>>>            GP successfully installed                    <<<<      "
 white "     >>>>            Run this command for launch bot                  <<<<      "
 red   "     >>>>                   ./sinchi-0.sh                             <<<<      "
 green   "                      ****************************                                  "
